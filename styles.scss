@@ -1,0 +1,42 @@
+/* styles.scss */
+
+body {
+  font-family: "Georgia", serif;
+  font-size: 17px;
+  line-height: 1.6;
+  color: #222;
+  background-color: #fcfcfc;
+}
+
+h1, h2, h3 {
+  font-family: "Helvetica Neue", sans-serif;
+  font-weight: 600;
+  color: #004c6d;
+}
+
+a {
+  color: #006699;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+.navbar {
+  background-color: #f8f8f8;
+  border-bottom: 1px solid #ddd;
+}
+
+#title-block-header {
+  margin-bottom: 2em;
+  border-bottom: 2px solid #ccc;
+}
+
+img {
+  border-radius: 8px;
+  max-width: 100%;
+}
+
+.sidebar {
+  background-color: #f0f2f5;
+}

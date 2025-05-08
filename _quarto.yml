@@ -19,5 +19,6 @@ website:
 
 format:
   html:
-    theme: cosmo
-    css: styles.scss
+    theme: 
+      - default
+      - styles.scss
