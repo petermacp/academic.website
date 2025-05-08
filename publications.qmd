@@ -1,0 +1,13 @@
+---
+title: "Publications"
+format:
+  html:
+    toc: true
+    toc-title: "On this page"
+bibliography: assets/my_pubs.bib
+csl: assets/american-medical-association-no-et-al-descending.csl
+nocite: "@*"
+---
+
+::: {#refs}
+:::

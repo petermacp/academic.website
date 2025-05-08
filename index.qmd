@@ -1,0 +1,41 @@
+---
+title: "Peter MacPherson"
+subtitle: "Professor of Global Public Health  <br> 
+          Head of Public Health <br>
+           School of Health & Wellbeing, University of Glasgow"
+format:
+  html:
+    toc: false
+    page-layout: full
+    css: styles.css  # optional for future custom styling
+---
+
+<div style="display: flex; align-items: flex-start; gap: 2rem; flex-wrap: wrap;">
+
+<div style="flex: 2; min-width: 250px;">
+
+# Welcome
+
+I am an academic public health physician and Professor of Global Public Health at the University of Glasgow. My research focuses on the epidemiology and control of infectious diseases—particularly HIV and tuberculosis—across resource‑limited settings.
+
+I hold a prestigious NIHR Global Health Research Professorship and lead a Wellcome Discovery Award‑funded programme advancing novel methods for TB surveillance and prevention. 
+
+I additionally lead several large international research programmes that advance diagnostics, surveillance, and prevention strategies for TB and HIV, supported by over £19 million in personal research funding. I regularly advise WHO and UNAIDS, and my work has directly shaped international guidelines and national policies to improve health outcomes in high‑burden settings.
+
+---
+# Contact details
+
+**University of Glasgow Profile:** [Link](https://www.gla.ac.uk/schools/healthwellbeing/staff/petermacpherson/)  
+**Email:** [peter.macpherson@glasgow.ac.uk](mailto:peter.macpherson@glasgow.ac.uk)  
+**Bluesky:** [@petermacp](https://bsky.app/profile/petermacp.bsky.social)  
+**GitHub:** [github.com/petermacp](https://github.com/petermacp)  
+**Google Scholar:** [Link](https://scholar.google.com/citations?user=VyW8nncAAAAJ&hl=en)  
+**ORCID:** [0000-0002-0329-9613](https://orcid.org/0000-0002-XXXX-XXXX)
+
+</div>
+
+<div style="flex: 1; min-width: 200px;">
+<img src="assets/peter.jpg" alt="Peter MacPherson" style="width: 100%; max-width: 250px; border-radius: 12px;" />
+</div>
+
+</div>

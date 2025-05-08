@@ -1,0 +1,6 @@
+---
+title: "Curriculum Vitae"
+format: html
+---
+
+[Download my CV (PDF)](assets/PM_CV_typst.pdf)
