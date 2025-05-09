@@ -7,8 +7,11 @@ format:
   html:
     toc: false
     page-layout: full
-    css: styles.css  # optional for future custom styling
+    css: styles.css
+    html-math-method: katex
+engine: knitr
 ---
+
 
 <div style="display: flex; align-items: flex-start; gap: 2rem; flex-wrap: wrap;">
 
