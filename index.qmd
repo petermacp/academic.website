@@ -19,11 +19,28 @@ engine: knitr
 
 # Welcome
 
-I am an academic public health physician and Professor of Global Public Health at the University of Glasgow. My research focuses on the epidemiology and control of infectious diseases—particularly HIV and tuberculosis—across resource‑limited settings.
+Prof Peter MacPherson is Head of Public Health in the School of Health and Wellbeing, University of Glasgow.
 
-I hold a prestigious NIHR Global Health Research Professorship and lead a Wellcome Discovery Award‑funded programme advancing novel methods for TB surveillance and prevention. 
+He is an academic public health physician, specialising in the epidemiology and prevention of infectious diseases. Peter works with partners in many countries around the world to research tuberculosis, HIV, and other priority public health infectious diseases. He has particular interests in TB screening and diagnostics, and in the spatial epidemiology of infectious diseases.
 
-I additionally lead several large international research programmes that advance diagnostics, surveillance, and prevention strategies for TB and HIV, supported by over £19 million in personal research funding. I regularly advise WHO and UNAIDS, and my work has directly shaped international guidelines and national policies to improve health outcomes in high‑burden settings.
+Peter currently holds an NIHR Global Health Research Professorship (2024-2029) to investigate adaptive approaches to computer-aided diagnosis of tuberculosis using chest X-ray.
+
+He is also Principal Investigator of the ZAMSA-TB study, a Wellcome Discovery Award (2024-2028) in Malawi, Zambia and South Africa to develop new methods for surveillance of recent tuberculosis transmission and measure vaccine effectiveness.
+
+Peter has contributed evidence and expert reviews to HIV and TB Departments at WHO.
+
+He is an Academic Editor at the journal PLOS Medicine.
+
+Please get in contact if you are interested in discussing research projects or consultancies.
+
+Areas of consultancy expertise
+
+ - Global health
+ - Infectious disease epidemiology
+ - Evidence synthesis
+ - Randomised controlled trials design and analysis
+ - Data science and biostatistical analysis (R, Bayesian regression analysis, spatial epidemiology, meta-analysis, data visualisation)
+ - Scientific writing
 
 ---
 # Contact details
