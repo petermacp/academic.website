@@ -17,6 +17,10 @@ engine: knitr
 
 <div style="flex: 2; min-width: 250px;">
 
+<div class="profile-photo">
+  <img src="assets/Peter.jpeg" alt="Peter MacPherson" style="width: 100%; max-width: 250px; border-radius: 12px;" />
+</div>
+
 # Welcome
 
 Prof Peter MacPherson is Head of Public Health in the School of Health and Wellbeing, University of Glasgow.
@@ -51,11 +55,5 @@ Areas of consultancy expertise
 **GitHub:** [github.com/petermacp](https://github.com/petermacp)  
 **Google Scholar:** [Link](https://scholar.google.com/citations?user=VyW8nncAAAAJ&hl=en)  
 **ORCID:** [0000-0002-0329-9613](https://orcid.org/0000-0002-XXXX-XXXX)
-
-</div>
-
-<div style="flex: 1; min-width: 200px;">
-<img src="assets/Peter.jpeg" alt="Peter MacPherson" style="width: 100%; max-width: 250px; border-radius: 12px;" />
-</div>
 
 </div>
