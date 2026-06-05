@@ -55,7 +55,7 @@ Areas of consultancy expertise
 </div>
 
 <div style="flex: 1; min-width: 200px;">
-<img src="assets/peter.jpg" alt="Peter MacPherson" style="width: 100%; max-width: 250px; border-radius: 12px;" />
+<img src="assets/Peter.jpeg" alt="Peter MacPherson" style="width: 100%; max-width: 250px; border-radius: 12px;" />
 </div>
 
 </div>
